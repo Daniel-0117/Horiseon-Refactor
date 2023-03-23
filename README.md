@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was created as part of a assignment to show an understanding of code.
+This project was created as part of a assignment to show an understanding of code. Here I made changes to the code to bring it standard practice. 
 
 ## Installation
 
@@ -14,7 +14,7 @@ N/A
 
 ## Credits
 
-N/A
+Starter code belongs to the project creators, changes were authored by me. 
 
 ## License
 
